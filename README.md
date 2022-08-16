@@ -1,5 +1,5 @@
 # dell-latitude-7275-hackintosh
-Files for installing MacOS on Lenovo Yoga 920
+Files for installing MacOS on Dell Latitude 7275. This probably works for Dell XPS 12 9250 since they have very similar internals.
 
 ### What Doesn't Work
 
